@@ -1,4 +1,5 @@
 # Data-Science
+This repository contains some of the projects that i have worked on throughout my data science journey which i find worth sharing. I try my best to keep it updated with the latest data science projects.
 
 ## Exploratory Data Analysis
 
