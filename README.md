@@ -44,3 +44,4 @@ An EDA done on Prime Minister Modi's twitter data from 2018.
 ### 7. [Heart Disease prediction](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Heart%20Disease%20Prediction%20using%20SVM.ipynb)
 ### 8. [Predicting winner from pokemon battles](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Pokemon_Battle.ipynb)
 ### 9. [Book recommendation system](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Book%20Recommendation%20System.ipynb)
+### 10. [Customer Behaviour analysis using hierarchical analysis](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Predicting%20Customer%20behaviour%20using%20Hierarchical%20Clustering.ipynb)
