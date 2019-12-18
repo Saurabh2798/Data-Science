@@ -35,9 +35,9 @@ An EDA done on Prime Minister Modi's twitter data from 2018.
 
 ## Machine Learning
 
-### -. [Regression - A complete walkthrough](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Regression/Machine%20Learning%20-%20Regression.ipynb)
-### -. [Classification](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Classification/Machine%20Learning%20-%20Classification.ipynb)
-### -. [Clustering](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Clustering/Clustering.ipynb)
+### - [Regression - A complete walkthrough](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Regression/Machine%20Learning%20-%20Regression.ipynb)
+### - [Classification - A complete walkthrough](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Classification/Machine%20Learning%20-%20Classification.ipynb)
+### - [Clustering - A complete walkthrough](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Clustering/Clustering.ipynb)
 
 ### 1. [Predicting Soccer player rating using attributes](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Soccer%20-%20Regression.ipynb)
 ### 2. [Wine Quality prediction](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Wine%20Quality%20Predictions%20-%20Multiple%20Linear%20Regression.ipynb)
