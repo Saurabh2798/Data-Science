@@ -50,6 +50,7 @@ An EDA done on Prime Minister Modi's twitter data from 2018.
 
 ### 1. [Genre Prediction using movie posters](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/Genre_Prediction_using_Movie_posters_(Multilabel_classification).ipynb)
 Multi-label Classification of Movie Genres using its posters
+
 ![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/trading-places.jpg)
 ##### Predicted label: ['Comedy']
 ![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/got.jpg)
