@@ -38,15 +38,9 @@ An EDA done on Prime Minister Modi's twitter data from 2018.
 ### 1. []()
 ### 2. []()
 ### 3. []()
-### 4. Predicting Soccer player rating using attributes
-[](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Soccer%20-%20Regression.ipynb)
-### 5. Wine Quality prediction
-[](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Wine%20Quality%20Predictions%20-%20Multiple%20Linear%20Regression.ipynb)
-### 6. Bike sharing demand prediction
-[](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Bike%20Sharing%20Demand%20Prediction.ipynb)
-### 7. Heart Disease prediction
-[](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Heart%20Disease%20Prediction%20using%20SVM.ipynb)
-### 8. Predicting winner from pokemon battles
-[](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Pokemon_Battle.ipynb)
-### 9. Book recommendation system
-[](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Book%20Recommendation%20System.ipynb)
+### 4. [Predicting Soccer player rating using attributes](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Soccer%20-%20Regression.ipynb)
+### 5. [Wine Quality prediction](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Wine%20Quality%20Predictions%20-%20Multiple%20Linear%20Regression.ipynb)
+### 6. [Bike sharing demand prediction](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Bike%20Sharing%20Demand%20Prediction.ipynb)
+### 7. [Heart Disease prediction](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Heart%20Disease%20Prediction%20using%20SVM.ipynb)
+### 8. [Predicting winner from pokemon battles](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Pokemon_Battle.ipynb)
+### 9. [Book recommendation system](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Book%20Recommendation%20System.ipynb)
