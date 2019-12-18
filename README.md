@@ -53,6 +53,7 @@ Multi-label Classification of Movie Genres using its posters
 
 ![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/trading-places.jpg)
 ##### Predicted label: ['Comedy']
+----------------------------------------------------------------------------------------------------------------
 ![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/got.jpg)
 ##### Predicted label: [Drama (0.514), Action (0.286), Thriller (0.24)]
 
