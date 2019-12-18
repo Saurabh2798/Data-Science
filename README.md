@@ -6,8 +6,6 @@
 A thorough analysis of FIFA player and team data.
 #### Average Wage
 ![Average Player Wages](https://github.com/Saurabh2798/Data-Science/blob/master/Exploratory%20Data%20Analysis/results/Avg-wage-players.png)
-#### Average Rating
-![Average Player Ratings](https://github.com/Saurabh2798/Data-Science/blob/master/Exploratory%20Data%20Analysis/results/avg-rating-players.png)
 #### Average Player Value
 ![Player Value by Age and Rating](https://github.com/Saurabh2798/Data-Science/blob/master/Exploratory%20Data%20Analysis/results/player-val-by-age-rating.png)
 
@@ -52,7 +50,7 @@ An EDA done on Prime Minister Modi's twitter data from 2018.
 
 ### 1. [Genre Prediction using movie posters](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/Genre_Prediction_using_Movie_posters_(Multilabel_classification).ipynb)
 Multi-label Classification of Movie Genres using its posters
-![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/kangaroo-detection.png)
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/trading-places.jpg)
 ##### Predicted label: ['Comedy']
 ![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/got.jpg)
 ##### Predicted label: [Drama (0.514), Action (0.286), Thriller (0.24)]
