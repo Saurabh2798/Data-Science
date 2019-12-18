@@ -64,3 +64,27 @@ A Kangaroo Detector made using RCNN and pretrained coco weights.
 ### 3. [Signature Verification using Siamese Network](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/Signature%20Verification%20using%20Siamese%20Network.ipynb)
 A writer independent signature verfication system, trained using BHSig dataset and Siamese Networks
 ![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/signature-verification.png)
+
+## Natural Language Processing
+
+### 1. [Movie Genre Prediction - Multi class classification](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/Movie%20Genre%20Classification%20-%20(%20Multi%20label%20classification%20).ipynb)
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/results/Multi%20class%20Text%20classification.png)
+
+### 2. [POS Tagger](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/POS%20tagger.ipynb)
+    MFC - Tagger
+    - training accuracy: 95.72
+    - testing accuracy: 93.01
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/results/MFT%20-%20tagger.png)
+
+    Basic HMM - Tagger
+    - training accuracy: 97.49
+    - testing accuracy: 96.09
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/results/HMM%20tagger.png)
+
+### 3. [Neural Machine Translation - English to Marathi](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/English%20-%20Marathi%20NMT.ipynb)
+
+### 4. [Text Summarization](https://github.com/Saurabh2798/Data-Science/blob/master/Natural%20Language%20Processing/Text%20Summarization.ipynb)
+    - Text Summarization performed using TextRank, LsaSummarizer, LuhnSummarizer, EdmundsonSummarizer 
+ 
+### 5. [Q-A bot](https://github.com/Saurabh2798/Q-A-bot)
+A simple Question answering bot trained on a subset of the Facebook babi dataset.
