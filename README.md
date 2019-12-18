@@ -46,3 +46,21 @@ An EDA done on Prime Minister Modi's twitter data from 2018.
 ### 5. [Predicting winner from pokemon battles](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Pokemon_Battle.ipynb)
 ### 6. [Book recommendation system](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Book%20Recommendation%20System.ipynb)
 ### 7. [Customer Behaviour analysis using hierarchical analysis](https://github.com/Saurabh2798/Data-Science/blob/master/Machine%20Learning/Predicting%20Customer%20behaviour%20using%20Hierarchical%20Clustering.ipynb)
+
+
+## Deep Learning
+
+### 1. [Genre Prediction using movie posters](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/Genre_Prediction_using_Movie_posters_(Multilabel_classification).ipynb)
+Multi-label Classification of Movie Genres using its posters
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/kangaroo-detection.png)
+##### Predicted label: ['Comedy']
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/got.jpg)
+##### Predicted label: [Drama (0.514), Action (0.286), Thriller (0.24)]
+
+### 2. [Kangaroo Detection using MaskRCNN](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/Kangaroo_detection_using_MaskRCNN.ipynb)
+A Kangaroo Detector made using RCNN and pretrained coco weights.
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/kangaroo-detection.png)
+
+### 3. [Signature Verification using Siamese Network](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/Signature%20Verification%20using%20Siamese%20Network.ipynb)
+A writer independent signature verfication system, trained using BHSig dataset and Siamese Networks
+![](https://github.com/Saurabh2798/Data-Science/blob/master/Deep%20Learning/results/signature-verification.png)
