@@ -95,7 +95,7 @@ This repository contains some of the projects that i have worked on throughout m
     - Text Summarization performed using TextRank, LsaSummarizer, LuhnSummarizer, EdmundsonSummarizer 
  
 ### 5. [Q-A bot](https://github.com/Saurabh2798/Q-A-bot)
-    A simple Question answering bot trained on a subset of the Facebook babi dataset.
+    A Question answering bot that can answer questions based on a story given to it. It is trained using the [end-to-end memory network](https://arxiv.org/abs/1503.08895) on a subset of the Facebook babi dataset.
     
     >>> my_story = "John left the kitchen . Sandra dropped the football in the garden ."
     >>> my_question = "Is the football in the garden ?"
